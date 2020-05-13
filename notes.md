@@ -18,3 +18,7 @@
 
 ## intersting topics
  * import Helm Charts
+
+## context
+ * https://www.cncf.io/webinars/end-yaml-engineering-with-cdk8s/
+ * recorded video should be available soon: https://www.cncf.io/webinars/?_company=aws
